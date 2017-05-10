@@ -1,0 +1,69 @@
+{
+  "intents": [
+    {
+      "intent": "InitializeIntent"
+    },
+    {
+      "intent": "TableInfoIntent",
+      "slots" : [
+        {
+          "name": "tableName",
+          "type": "TABLE_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "LoadTableIntent",
+      "slots" : [
+        {
+          "name": "tableName",
+          "type": "TABLE_NAME"
+        }
+      ]
+    },
+    {
+      "intent": "ListTablesIntent",
+      "slots" : [
+        {
+          "name": "dataORtables",
+          "type": "DATA_OR_TABLES"
+        }
+      ]
+    },
+    {
+      "intent": "VariableSummaryIntent",
+      "slots" : [
+        {
+          "name": "summaryVar",
+          "type": "SUMMARY_VAR"
+        },
+        {
+          "name": "categoryGrouper",
+          "type": "CATEGORY_GROUPER"
+        },
+        {
+          "name": "categoryFilter",
+          "type": "CATEGORY_FILTER"
+        },
+        {
+          "name": "categoryLevel",
+          "type": "CATEGORY_LEVEL"
+        },
+        {
+          "name": "intervalFilter",
+          "type": "INTERVAL_FILTER"
+        },
+        {
+          "name": "intervalLevel",
+          "type": "INTERVAL_LEVEL"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    }
+  ]
+}
