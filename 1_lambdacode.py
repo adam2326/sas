@@ -138,7 +138,7 @@ def get_ListTablesIntent_response():
     return build_response(session_attributes, build_speechlet_response(card_title,speech_output,reprompt_text,should_end_session))
 
 
-def get_ListTablesIntent_response():
+def get_VariableSummaryIntent_response():
     session_attributes = {}
     card_title = "VariableSummaryIntent_Info"
     speech_output = "The variable summary has been completed."
