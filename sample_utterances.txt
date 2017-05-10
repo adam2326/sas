@@ -1,0 +1,99 @@
+InitializeIntent reset
+InitializeIntent reset the demo
+InitializeIntent reset to the beginning
+InitializeIntent restart
+InitializeIntent restart the demo
+InitializeIntent clear
+InitializeIntent clear the demo
+InitializeIntent start over
+InitializeIntent start from the beginning
+InitializeIntent go back to the beginning
+InitializeIntent initialize
+InitializeIntent initialize the server
+InitializeIntent init
+InitializeIntent set things up
+InitializeIntent prepare the server
+LoadTableIntent open the data set {tableName}
+LoadTableIntent open the {tableName} data set
+LoadTableIntent open the data {tableName}
+LoadTableIntent open the {tableName} data
+LoadTableIntent open the {tableName} table
+LoadTableIntent open the table {tableName}
+LoadTableIntent open up the data set {tableName}
+LoadTableIntent open up the {tableName} data set
+LoadTableIntent open up the {tableName} table
+LoadTableIntent open up the table {tableName}
+LoadTableIntent load the table {tableName}
+LoadTableIntent load the {tableName} table
+LoadTableIntent load up the table {tableName}
+LoadTableIntent load up the {tableName} table
+LoadTableIntent load the data set {tableName}
+LoadTableIntent load the {tableName} data set
+LoadTableIntent load up the data set {tableName}
+LoadTableIntent load up the {tableName} data set
+ListTablesIntent give me my {dataORtables}
+ListTablesIntent give me all my {dataORtables}
+ListTablesIntent give me the available {dataORtables}
+ListTablesIntent list my {dataORtables}
+ListTablesIntent list my available {dataORtables}
+ListTablesIntent list the available {dataORtables}
+ListTablesIntent name my {dataORtables}
+ListTablesIntent name the {dataORtables} that are available
+ListTablesIntent show {dataORtables}
+ListTablesIntent show me the available {dataORtables}
+ListTablesIntent show me what {dataORtables} are available
+ListTablesIntent show all of my {dataORtables} to me
+ListTablesIntent tell me what {dataORtables} are available
+ListTablesIntent tell me what {dataORtables} is available
+ListTablesIntent what {dataORtables} is available
+ListTablesIntent what {dataORtables} are available
+VariableSummaryIntent summarize {summaryVar}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is not {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is not {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} where {intervalFilter} is equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} where {intervalFilter} is less than {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} where {intervalFilter} is less than or equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} where {intervalFilter} is greater than {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} where {intervalFilter} is greater than or equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} where {intervalFilter} is between {intervalLevel} and {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is not {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is not {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {intervalFilter} is equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {intervalFilter} is less than {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {intervalFilter} is less than or equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {intervalFilter} is greater than {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {intervalFilter} is greater than or equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1} where {intervalFilter} is between {intervalLevel} and {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is not {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is not {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {categoryFilter} is not {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}, {categoryLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {intervalFilter} is equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {intervalFilter} is less than {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {intervalFilter} is less than or equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {intervalFilter} is greater than {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {intervalFilter} is greater than or equal to {intervalLevel}
+VariableSummaryIntent summarize {summaryVar} by {categoryGrouper1}, {categoryGrouper2} where {intervalFilter} is between {intervalLevel} and {intervalLevel}
